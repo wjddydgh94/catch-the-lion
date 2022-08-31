@@ -1,4 +1,5 @@
 # catch the lion
 
 - typescript
-- parcel
+- class형 컴포넌트
+- bootstrap
